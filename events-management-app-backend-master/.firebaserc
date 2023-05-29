@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "olems-bd91c",
+    "events-mobile-app": "events-mobile-app-28fe7",
+    "event-mobile-application": "olems-bd91c"
+  },
+  "targets": {},
+  "etags": {}
+}
